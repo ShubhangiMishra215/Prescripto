@@ -47,9 +47,9 @@ Admins should be able to:
 
 ### Links
 
-- Live Site URL: [Add deployed frontend link](#)
-- Admin Panel URL: [Add deployed admin link](#)
-- Backend Repo / API: [Backend link](https://prescripto-bv3p.onrender.com/)
+- Live Site URL: [Frontend link](https://prescripto-woad-rho.vercel.app)
+- Admin Panel URL: [Admin link](https://prescripto-5yay.vercel.app)
+- Backend Repo / API: [Backend link](https://prescripto-bv3p.onrender.com)
 
 ## My process
 
