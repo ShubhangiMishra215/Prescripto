@@ -13,6 +13,7 @@ Prescripto is a full-stack MERN doctor appointment booking platform with separat
   - [What I learned](#what-i-learned)
   - [Continued development](#continued-development)
   - [Useful resources](#useful-resources)
+- [Deployment](#deployment)
 - [Author](#author)
 
 ## Overview
@@ -95,6 +96,16 @@ Things I'd like to keep improving:
 
 - [MongoDB Mongoose Docs](https://mongoosejs.com/docs/guide.html) - Helped a lot with schema design and validation.
 - [Razorpay Integration Guide](https://razorpay.com/docs/) - Used this to set up and verify payments correctly.
+
+## Deployment
+
+This project is deployed across three separate services:
+
+| App | Platform | Root Directory |
+|-----|----------|-----------------|
+| Backend | Render | `backend` |
+| Frontend | Vercel | `frontend` |
+| Admin Panel | Vercel | `admin` |
 
 ## Author
 
