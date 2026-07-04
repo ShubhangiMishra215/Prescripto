@@ -9,7 +9,7 @@ const Footer = () => {
         {/* Left section */}
         <div className='mb-5 w-40'>
             <img src={assets.logo} alt=""/>
-            <p className='w-full md:w-2/3 text-gray-600 leading-6'>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Nostrum, vero.</p>
+            <p className='w-full md:w-2/3 text-gray-600 leading-6'>Book appointments with trusted doctors quickly and easily, all in one place.</p>
         </div>
 
          {/* middle section */}
@@ -37,7 +37,7 @@ const Footer = () => {
       <div>
         <hr/>
       </div>
-      <p className='py-5 text-sm text-center'>Copyright2026@Prescripto-All Rights Reserved</p>
+      <p className='py-5 text-sm text-center'>Copyright © 2026 Prescripto — All Rights Reserved.</p>
     </div>
   )
 }

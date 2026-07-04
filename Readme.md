@@ -6,7 +6,6 @@ Prescripto is a full-stack MERN doctor appointment booking platform with separat
 
 - [Overview](#overview)
   - [The Project](#the-project)
-  - [Screenshot](#screenshot)
   - [Links](#links)
 - [My process](#my-process)
   - [Built with](#built-with)
@@ -39,12 +38,6 @@ Admins should be able to:
 - Log in with admin credentials
 - Add and manage doctor profiles
 - View and manage all appointments across the platform
-
-### Screenshot
-
-![Prescripto preview](./screenshot.jpg)
-
-*Add a screenshot of the homepage or booking flow here.*
 
 ### Links
 
